@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+plotly
+opencv-python
+mediapipe
+shap
+streamlit
+reportlab
