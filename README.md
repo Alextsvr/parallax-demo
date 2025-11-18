@@ -223,6 +223,6 @@ MIT License.
 
 ## Contact
 
-<Aleksandrs Cveckovskis>  
+Aleksandrs Cveckovskis  
 Data Scientist / ML Engineer  
-Email: <aleksandrs.cveckovskis@gmail.com>
+Email: aleksandrs.cveckovskis@gmail.com
